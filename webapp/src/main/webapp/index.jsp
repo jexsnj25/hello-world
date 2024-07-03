@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning FIX1  automate  cahnes to build and copy war file sto docker container </h1>
+   <h1> Thankyou, Happy Learning FIX2  automate  cahnes to build and copy war file sto docker container </h1>
 
   
 </form>
