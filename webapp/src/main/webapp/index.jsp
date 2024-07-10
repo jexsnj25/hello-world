@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
- <h1> Thankyou, Happy Learning FIX8  automate  COPYING DOCKER IMAGES TO DOCKER HUB </h1>
+ <h1> Thankyou, Happy Learning FIX1  automate  COPYING DOCKER IMAGES TO DOCKER HUB </h1>
 
   
 </form>
